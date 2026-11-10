@@ -19,3 +19,7 @@ The data used in this project was obtained from mocap.cs.cmu.edu. The database w
 ## Current append release
 
 23 original QA-tested models. Existing models, clothing, metre proportions, rigs, animations and source GLBs are unchanged. No game code or account data. Each release is pinned by commit and file hashes.
+
+## Current append release
+
+28 original QA-tested models. Existing models, clothing, metre proportions, rigs, animations and source GLBs are unchanged. No game code or account data. Each release is pinned by commit and file hashes.
