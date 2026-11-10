@@ -53,6 +53,26 @@
     "h63-0357": {
       "model": "transport/models/h63-0357.gltf",
       "sourceGlbSha256": "0bccb0db150e8430ba7c07a9ee1c07d1634b2ef6d0f7b5fcf71aa0a199cb0abd"
+    },
+    "h63-0007": {
+      "model": "transport/models/h63-0007.gltf",
+      "sourceGlbSha256": "846786d9b4acc3e491ebb27d0867b123da5a01aad26faf20b268e701af3fb03e"
+    },
+    "h63-0008": {
+      "model": "transport/models/h63-0008.gltf",
+      "sourceGlbSha256": "9f16537dc74e587cb470b1aff5e6b3af9237dee89d798d79906ba40973046c5c"
+    },
+    "h63-0009": {
+      "model": "transport/models/h63-0009.gltf",
+      "sourceGlbSha256": "6732c778c6820cf8be876f319691588511c298f0a2ec0cbc2f6d984bd5ba32b7"
+    },
+    "h63-0010": {
+      "model": "transport/models/h63-0010.gltf",
+      "sourceGlbSha256": "98a3ef7004846a747df7ee4544d7412cec2fdcd26ed9540f6a78b177685905ef"
+    },
+    "h63-0011": {
+      "model": "transport/models/h63-0011.gltf",
+      "sourceGlbSha256": "2370fee2f4cb7152b19ec0f363a9aa0f80d8773add04504595acc56d0dd7d2b1"
     }
   },
   "files": {
@@ -367,6 +387,114 @@
     "transport/textures/ddef2f3dbbea0e4a3b0415b32f884e55ae42a78665aa5fe738b81899ee90a358.png": {
       "bytes": 12355,
       "sha256": "ddef2f3dbbea0e4a3b0415b32f884e55ae42a78665aa5fe738b81899ee90a358"
+    },
+    "transport/models/h63-0007.gltf": {
+      "bytes": 171211,
+      "sha256": "498f703e05bc7b0644029d60a0b34c193d542bf23768ba9013118810b522209e"
+    },
+    "transport/buffers/279f3e96a8d966a32aced11e020db8e9288d646ff2d3ad558771efd9997de152.bin.gz": {
+      "bytes": 1501095,
+      "sha256": "9d96d9d7f64176cef843856b9675093cadc9e64979e820ff1cda3096248f9f90"
+    },
+    "transport/textures/f01d10b7e2f106e0f56a7995c8db5bd99a46537f1e37e381d0ceb8d91d4e0614.png": {
+      "bytes": 117205,
+      "sha256": "f01d10b7e2f106e0f56a7995c8db5bd99a46537f1e37e381d0ceb8d91d4e0614"
+    },
+    "transport/textures/e9cc32fe0298012677d6e1b7028b828f902a73c515fb0d9c417efd8a5b3ba522.png": {
+      "bytes": 449900,
+      "sha256": "e9cc32fe0298012677d6e1b7028b828f902a73c515fb0d9c417efd8a5b3ba522"
+    },
+    "transport/textures/2f8615fbfcf1648f7f556c5b34ba85b62ed1012989cf40c0cb828ea5ac1c8256.jpg": {
+      "bytes": 178187,
+      "sha256": "2f8615fbfcf1648f7f556c5b34ba85b62ed1012989cf40c0cb828ea5ac1c8256"
+    },
+    "transport/textures/88d7a8bc4e84c1d44fd367da0d9f2bd3aac09eae90c5bf940680e1987e2932ac.png": {
+      "bytes": 112708,
+      "sha256": "88d7a8bc4e84c1d44fd367da0d9f2bd3aac09eae90c5bf940680e1987e2932ac"
+    },
+    "transport/textures/8b334f6bed683f19d72f0f7e149de14dc901bc5dde88ee235a2dba45984a00f7.png": {
+      "bytes": 593647,
+      "sha256": "8b334f6bed683f19d72f0f7e149de14dc901bc5dde88ee235a2dba45984a00f7"
+    },
+    "transport/models/h63-0008.gltf": {
+      "bytes": 172595,
+      "sha256": "343ebb1d944c7dbcf21258d144100b75b5a181f406ed9ff0347cfe65bf193973"
+    },
+    "transport/buffers/b25aee98d6013e9e3482b3dd09950f728573c4a225764451c25dee8923abb821.bin.gz": {
+      "bytes": 1428282,
+      "sha256": "ab7fca573b52967ce2471ccf90da27b4361f092a65f0fb00121109a63c019a87"
+    },
+    "transport/textures/a393b4b982487945835b69c466e5d74241213aec08b0e025a76c6517bcc2e975.png": {
+      "bytes": 67385,
+      "sha256": "a393b4b982487945835b69c466e5d74241213aec08b0e025a76c6517bcc2e975"
+    },
+    "transport/textures/53684a15c795e9fd2d97984c9801d1bf26cbd8e4624a6ab5dafaf15d4ea706cc.png": {
+      "bytes": 20944,
+      "sha256": "53684a15c795e9fd2d97984c9801d1bf26cbd8e4624a6ab5dafaf15d4ea706cc"
+    },
+    "transport/textures/9bb0590cb327d4e256a6f4c3a95e288edd6d6bb7a8960e159d10b26f6c5b7aa3.png": {
+      "bytes": 2626,
+      "sha256": "9bb0590cb327d4e256a6f4c3a95e288edd6d6bb7a8960e159d10b26f6c5b7aa3"
+    },
+    "transport/textures/ad18d6266b32b1b0fadc4b8e81e1fde862069beaf1b387f154c9b650ee0792a2.png": {
+      "bytes": 971,
+      "sha256": "ad18d6266b32b1b0fadc4b8e81e1fde862069beaf1b387f154c9b650ee0792a2"
+    },
+    "transport/textures/821ea9e7afbf2fe78f74e3a027db4f160e906169321be8e602881333cc368889.png": {
+      "bytes": 968,
+      "sha256": "821ea9e7afbf2fe78f74e3a027db4f160e906169321be8e602881333cc368889"
+    },
+    "transport/models/h63-0009.gltf": {
+      "bytes": 172500,
+      "sha256": "ccbac99d1699745f125da6a96b90e7a53da47545cdfb884f4aa4874be13c5e8c"
+    },
+    "transport/buffers/e184da4459b0ad3fbe3f48a31e109dddb0c1f6287f073135d806e4f3acc03421.bin.gz": {
+      "bytes": 1615888,
+      "sha256": "6f8026ac8122729e71c43933f2a201ffb096a8263a3e86e09b65b38bf06f383a"
+    },
+    "transport/textures/0c3061578631720404a47c1bc1b6df404ede92a1cbd65e759a51972379e84389.jpg": {
+      "bytes": 232415,
+      "sha256": "0c3061578631720404a47c1bc1b6df404ede92a1cbd65e759a51972379e84389"
+    },
+    "transport/textures/79280340fd023739fc857596fc7cd695d18babfd35359eab8566e40f7917d7fe.png": {
+      "bytes": 297442,
+      "sha256": "79280340fd023739fc857596fc7cd695d18babfd35359eab8566e40f7917d7fe"
+    },
+    "transport/models/h63-0010.gltf": {
+      "bytes": 177713,
+      "sha256": "d8ca0500e450757b48a50aa6a100090466c6f29a9a02667bf861888b6ac6a8c2"
+    },
+    "transport/buffers/ad12113c986c378371586c3bcd484f299a7b2a0d8da6682a7514246754104363.bin.gz": {
+      "bytes": 1445222,
+      "sha256": "6ea1b5ef1b24b378b104c99ea77c1198868cfe5286a1b4841083bb0735f4129f"
+    },
+    "transport/textures/2f3e9c71fd861175282d6c6241d92f37a6cdd7ffcb17406ab6f04ca7702736cd.jpg": {
+      "bytes": 272528,
+      "sha256": "2f3e9c71fd861175282d6c6241d92f37a6cdd7ffcb17406ab6f04ca7702736cd"
+    },
+    "transport/textures/525ec805910e604acb21a466f13c96c76af973b2805f10fd956af11313780747.png": {
+      "bytes": 15591,
+      "sha256": "525ec805910e604acb21a466f13c96c76af973b2805f10fd956af11313780747"
+    },
+    "transport/textures/d7e695caefd1f25ff7f97c76391bdcad8c6f890a657a91955456e5f6a2a160b0.png": {
+      "bytes": 252436,
+      "sha256": "d7e695caefd1f25ff7f97c76391bdcad8c6f890a657a91955456e5f6a2a160b0"
+    },
+    "transport/models/h63-0011.gltf": {
+      "bytes": 172293,
+      "sha256": "4c0c27886ef75d4937f548567f76c775ac492f6578315e84ae86ca64b581777f"
+    },
+    "transport/buffers/41b7c0ca3584c2ba0017f0757e60c64ec87692e933bc8b3d339a8e94656643b6.bin.gz": {
+      "bytes": 1465163,
+      "sha256": "cd7c50fb86656a9a86637927a00da0288cdc049c75fe73d6efdab65341812759"
+    },
+    "transport/textures/66431396a03f718a10ef6992c3cc8ce6dd199efec5fb37a977b49360e00ddaf3.png": {
+      "bytes": 12367,
+      "sha256": "66431396a03f718a10ef6992c3cc8ce6dd199efec5fb37a977b49360e00ddaf3"
+    },
+    "transport/textures/ee7e256faaa78ce8980c3e9e02996f43e3d9f6c831e56c0e710cd76bf5626242.png": {
+      "bytes": 539391,
+      "sha256": "ee7e256faaa78ce8980c3e9e02996f43e3d9f6c831e56c0e710cd76bf5626242"
     }
   },
   "scope": "Model data and licences only. No game source, accounts or student information."

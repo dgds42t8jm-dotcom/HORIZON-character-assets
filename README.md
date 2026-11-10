@@ -11,3 +11,7 @@ This repository contains model files and notices only. It contains no game imple
 MakeHuman-derived body, clothing and hair assets are CC0 1.0; motion has separate CMU usage terms, including the restriction against direct resale of the motion data. This collection is provided free, with the original source and acknowledgement notices in `LICENSES/`. It is incorrect to describe the entire motion collection as solely CC0.
 
 The data used in this project was obtained from mocap.cs.cmu.edu. The database was created with funding from NSF EIA-0196217.
+
+## Current append release
+
+18 original QA-tested models. Existing models, clothing, metre proportions, rigs, animations and source GLBs are unchanged. No game code or account data. Each release is pinned by commit and file hashes.
