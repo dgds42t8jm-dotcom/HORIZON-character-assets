@@ -88,6 +88,21 @@
       "sha256": "89e2041b0be087ada0d5d67234241c27dfdef1529010b78f5ffbe0d109fd98ee"
     },
     {
+      "path": "proxies/outfit_female_elegantsuit01.pack",
+      "bytes": 101283,
+      "sha256": "9e8fce779a756fb031063c7987cbacd1255b372f49ee5db1fe068a0d2ed9f863"
+    },
+    {
+      "path": "proxies/outfit_male_casualsuit01.pack",
+      "bytes": 363339,
+      "sha256": "f0bb29ede0f8bd388da76dd5fa31b772f80f83fc3e17d7faf6c8b7bbf743d719"
+    },
+    {
+      "path": "proxies/outfit_male_elegantsuit01.pack",
+      "bytes": 329939,
+      "sha256": "9a000bc84bf60214ebcd79062aa4384985a7682397fcbe0962a19d3cce6da68e"
+    },
+    {
       "path": "proxies/teeth_teeth_base.pack",
       "bytes": 124255,
       "sha256": "67ca3e31dd5092f704ca01d9f187697ea7035b75bdaa2867d86bc4f39f7ea166"
@@ -191,6 +206,31 @@
       "path": "textures/hair_short04.png",
       "bytes": 1489940,
       "sha256": "288800441decd3976ea167a9c3857a7b0644b1d749792344323909d4d18a30b2"
+    },
+    {
+      "path": "textures/outfit_female_elegantsuit01.jpg",
+      "bytes": 309476,
+      "sha256": "7bd28d38432ddbc2ce7c57fbf105b811da603bf980b3e7ee0ede4b30af73aa44"
+    },
+    {
+      "path": "textures/outfit_female_elegantsuit01_normal.jpg",
+      "bytes": 178187,
+      "sha256": "2f8615fbfcf1648f7f556c5b34ba85b62ed1012989cf40c0cb828ea5ac1c8256"
+    },
+    {
+      "path": "textures/outfit_male_casualsuit01.jpg",
+      "bytes": 286309,
+      "sha256": "0c0170c5316be8e0d89f4002432360bea5ad1c33e115c9c16df281c65cbc77ac"
+    },
+    {
+      "path": "textures/outfit_male_casualsuit01_normal.jpg",
+      "bytes": 253748,
+      "sha256": "e09780b1ab00cbd4daaf92ef70227f73e98f2987f7876eb7326ec6af9000ba55"
+    },
+    {
+      "path": "textures/outfit_male_elegantsuit01.jpg",
+      "bytes": 100404,
+      "sha256": "873ba7af2985ea1bfffe0f0a1da839829897d4b8bfee2d3722d83c5da9100c92"
     },
     {
       "path": "textures/skin_young_african_female.jpg",
