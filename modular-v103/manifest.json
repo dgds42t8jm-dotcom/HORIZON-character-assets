@@ -1,0 +1,236 @@
+{
+  "license": "CC0-1.0",
+  "source": "https://ara3dgen.com/assets/",
+  "files": [
+    {
+      "path": "base.pack",
+      "bytes": 615072,
+      "sha256": "aaf3ce5024324ca4bf61eb0c4320b6e05cf44e4e7e3d3f58bd35b1375b0d664e"
+    },
+    {
+      "path": "catalog.json",
+      "bytes": 68292,
+      "sha256": "36f1ab37ebe7e2f11d843f749cc84906ba59f4bdcfb480694cf83cb71df3c80f"
+    },
+    {
+      "path": "proxies/eyebrows_eyebrow001.pack",
+      "bytes": 4874,
+      "sha256": "c6a5c0d28dfa7e18fd9951dd20f43e2ba9d358892c9bf2139cb3e92b90a6cfb2"
+    },
+    {
+      "path": "proxies/eyebrows_eyebrow006.pack",
+      "bytes": 4729,
+      "sha256": "28c1d8ad7b7496e52c8933c731fa6052ceeb7a34a965e2d152606c5e7513662e"
+    },
+    {
+      "path": "proxies/eyebrows_eyebrow010.pack",
+      "bytes": 4859,
+      "sha256": "bee81ee13549d6f233085d23433d03864f3e986c87b184750880c4b61306ee6b"
+    },
+    {
+      "path": "proxies/eyelashes_eyelashes01.pack",
+      "bytes": 5311,
+      "sha256": "5bafda2ee631bae6b46fd6e14f5b752e9541b9e5a53a49999312d696b3a0b627"
+    },
+    {
+      "path": "proxies/eyes_high-poly.pack",
+      "bytes": 34811,
+      "sha256": "3b460002b494c86aeb441235c0d54a1728b4df8775b8bf1bb9d488882c27759f"
+    },
+    {
+      "path": "proxies/hair_afro01.pack",
+      "bytes": 63594,
+      "sha256": "aa80d1d5b17ab0e231af49d3ec626520f1e01084e7fd7edd2788d73c2b0cba0b"
+    },
+    {
+      "path": "proxies/hair_bob01.pack",
+      "bytes": 196297,
+      "sha256": "6096188952380d3001331cffccd3b91ed35b5e0ed01dbad52b71c24856af8ced"
+    },
+    {
+      "path": "proxies/hair_bob02.pack",
+      "bytes": 69836,
+      "sha256": "65d57886e25c72d2ed631595b1f6e0cca1283d881ce7b05320a5c65812c8237c"
+    },
+    {
+      "path": "proxies/hair_braid01.pack",
+      "bytes": 153631,
+      "sha256": "9ff92a432b8caf27560a8ea16c80730961ed4aacd3e39ac2e4edb261eee2b43d"
+    },
+    {
+      "path": "proxies/hair_long01.pack",
+      "bytes": 116084,
+      "sha256": "df26e9c41c74b27f60f276f64f06e662721aaa60587fa9cf15cbb63140b1bd15"
+    },
+    {
+      "path": "proxies/hair_ponytail01.pack",
+      "bytes": 139467,
+      "sha256": "58110f7b26ec0381705e76e94f70507f292f2a5d9f95facaaf573c055bcf7489"
+    },
+    {
+      "path": "proxies/hair_short01.pack",
+      "bytes": 112251,
+      "sha256": "87c0b98acb2064974fcce29bb67a839c5f93271cf43509326c2dcaba58ed3023"
+    },
+    {
+      "path": "proxies/hair_short02.pack",
+      "bytes": 78822,
+      "sha256": "c189e4881d593b07ab78320fbdc3c0a811bfb5e9370d176cf9418280df8dc6b4"
+    },
+    {
+      "path": "proxies/hair_short03.pack",
+      "bytes": 45681,
+      "sha256": "d551621a5f114c3fa49051b4f7d4adc4847aad910aac3a08442e1fb3ef6824fd"
+    },
+    {
+      "path": "proxies/hair_short04.pack",
+      "bytes": 34523,
+      "sha256": "89e2041b0be087ada0d5d67234241c27dfdef1529010b78f5ffbe0d109fd98ee"
+    },
+    {
+      "path": "proxies/teeth_teeth_base.pack",
+      "bytes": 124255,
+      "sha256": "67ca3e31dd5092f704ca01d9f187697ea7035b75bdaa2867d86bc4f39f7ea166"
+    },
+    {
+      "path": "proxies/tongue_tongue01.pack",
+      "bytes": 5671,
+      "sha256": "566dc4992b9632fc0586be6c39f5c5576d23a599517dd876750fd4fef2b74469"
+    },
+    {
+      "path": "targets.pack",
+      "bytes": 6498862,
+      "sha256": "6acc08e8f7efd5dabd101e75cc3dd3b3d9f050c9e77c72d73f39ac86ea7e889a"
+    },
+    {
+      "path": "textures/eyebrows_eyebrow001.png",
+      "bytes": 34504,
+      "sha256": "db8d5c28f21192bddfd00b4b80e4926c0d66687dfe89a880f1d826ffa7582ca6"
+    },
+    {
+      "path": "textures/eyebrows_eyebrow006.png",
+      "bytes": 14245,
+      "sha256": "372c5fbe78c564044fb1530f4eeed02edb1aae7e0bade8b77a46666180985860"
+    },
+    {
+      "path": "textures/eyebrows_eyebrow010.png",
+      "bytes": 34540,
+      "sha256": "b6dc6150b7a08967e7d33ce4b0f1825bc862d8faa69b5c8a8953d0b4c6c267e8"
+    },
+    {
+      "path": "textures/eyelashes_eyelashes01.png",
+      "bytes": 53144,
+      "sha256": "1ea7becc92b38bc18bf3c610cac1e67ad8f020d694f48246f5a592101406f0e6"
+    },
+    {
+      "path": "textures/eyes_blue.png",
+      "bytes": 287728,
+      "sha256": "52292a4a2b7618842e5a7587730a0351f2242d877c4a9d20583716432eb42faa"
+    },
+    {
+      "path": "textures/eyes_brownlight.png",
+      "bytes": 292436,
+      "sha256": "cd20f45d31fbd1a3dcfe711662a58fb21f868b272e56c23d0033e915dae63239"
+    },
+    {
+      "path": "textures/eyes_darkbrown.png",
+      "bytes": 396510,
+      "sha256": "59fca6997770354cb9a3eabe98590883688f4436727be0afbf1234a7d2a81e4d"
+    },
+    {
+      "path": "textures/eyes_green.png",
+      "bytes": 290864,
+      "sha256": "87533a1e33d4afa2e74979e786d858e597758010c9afdada89fc70e23b99d73c"
+    },
+    {
+      "path": "textures/hair_afro01.png",
+      "bytes": 1890921,
+      "sha256": "664ab1ccc2483eda8e3a50cdd30e047a68965fc0887946af975ec6948c708dce"
+    },
+    {
+      "path": "textures/hair_bob01.png",
+      "bytes": 1529093,
+      "sha256": "f114e1eaf009889415b3c849a723acbf3e98caf4dbce9e9d7083a187c84c8b9b"
+    },
+    {
+      "path": "textures/hair_bob02.png",
+      "bytes": 1041224,
+      "sha256": "3a13b6bd1a1b3cf5ab984c52c7e622c395294d679b33d2882ba7055960b54b2e"
+    },
+    {
+      "path": "textures/hair_braid01.png",
+      "bytes": 1218926,
+      "sha256": "05ac7717ea9af80e5da0364e9a2ccf122f160af6474fee32c2297e35007e9dfd"
+    },
+    {
+      "path": "textures/hair_long01.png",
+      "bytes": 1205118,
+      "sha256": "7dbd3961b0afdad0424d81a5b04effa528c2ddc1bf2bb16f659a216dac4025d5"
+    },
+    {
+      "path": "textures/hair_ponytail01.png",
+      "bytes": 1249229,
+      "sha256": "6600d726fd857dd0fe8c31bced078efc1dacc2a14d5a25c29bf84d776a4a1215"
+    },
+    {
+      "path": "textures/hair_short01.png",
+      "bytes": 1481193,
+      "sha256": "a71d3c7931f4cbfb32ca62c946f22a3566378d6104ed2f7b934aa91c80d4692d"
+    },
+    {
+      "path": "textures/hair_short02.png",
+      "bytes": 1434693,
+      "sha256": "ac7030b3a4c563631104c5f5dcd302d643355f1bfb6438e1f945ace334802127"
+    },
+    {
+      "path": "textures/hair_short03.png",
+      "bytes": 1031945,
+      "sha256": "8595fbb196cbc3fedf976892cddb7e0039a991b95a60fb46031138fbf48bfa99"
+    },
+    {
+      "path": "textures/hair_short04.png",
+      "bytes": 1489940,
+      "sha256": "288800441decd3976ea167a9c3857a7b0644b1d749792344323909d4d18a30b2"
+    },
+    {
+      "path": "textures/skin_young_african_female.jpg",
+      "bytes": 232415,
+      "sha256": "0c3061578631720404a47c1bc1b6df404ede92a1cbd65e759a51972379e84389"
+    },
+    {
+      "path": "textures/skin_young_african_male.jpg",
+      "bytes": 208732,
+      "sha256": "0f2c15798eac2e8d787bc0387eca7077a929c524a60f9dbac913f74dcc64db1b"
+    },
+    {
+      "path": "textures/skin_young_asian_female.jpg",
+      "bytes": 251777,
+      "sha256": "e17ba0a86f4a2c37f118dcf00a272da614109eae4ff1a337260a07d8f89f5314"
+    },
+    {
+      "path": "textures/skin_young_asian_male.jpg",
+      "bytes": 270653,
+      "sha256": "23d0496c7894c7add36bcb96bbb7d597503efa878042125623523f3d42c1f192"
+    },
+    {
+      "path": "textures/skin_young_caucasian_female.jpg",
+      "bytes": 311733,
+      "sha256": "b5bded96f4de3273e3b2022c960d60147ee6e18b0abd582c086a4d0a3f76a73b"
+    },
+    {
+      "path": "textures/skin_young_caucasian_male.jpg",
+      "bytes": 298357,
+      "sha256": "e85aafc3b6a3fadf49f7171f8f66003472bb958895fea9b54719bfa3f1b2917c"
+    },
+    {
+      "path": "textures/teeth_teeth_base.png",
+      "bytes": 697030,
+      "sha256": "3b4e7c4e1cf36e2f825927892d8181204157b4752f5615a5ce1099f21f2b0802"
+    },
+    {
+      "path": "textures/tongue_tongue01.jpg",
+      "bytes": 46643,
+      "sha256": "295c683ee7e13b012880e10cd663e79f7b163d0ee6e78a088069a9ccd87b8a14"
+    }
+  ]
+}
