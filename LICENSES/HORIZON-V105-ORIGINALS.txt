@@ -1,0 +1,41 @@
+These are unmodified official Ara exports from the existing HORIZON character recipes. Original GLBs remain in dgds42t8jm-dotcom/HORIZON, branch codex/v105-500-original-character-integration. No student/account data.
+
+The character assets in this folder (base mesh, morph targets, skeleton, skins,
+eyes, eyebrows, eyelashes, hair, clothes and proxy meshes) are derived from
+MakeHuman (http://www.makehumancommunity.org) and were explicitly released
+under CC0 1.0 Universal (public domain dedication) in September 2020 by:
+
+  Data Collection AB, https://www.datacollection.se
+  Joel Palmius
+  Jonas Hauquier
+
+CC0 1.0: https://creativecommons.org/publicdomain/zero/1.0/
+
+Motion capture: the Walk, Slouch walk, Run, Strafe left/right, Jump, Low punch,
+Cry and the chair (sit down, sit idle, stand up) animations are retargeted from
+the CMU Graphics Lab Motion Capture Database (http://mocap.cs.cmu.edu), using
+cgspeed's BVH conversion. CMU's terms: the data is free to use, including in
+commercially sold products, but may not be resold directly, even in converted
+form. Acknowledgement: "The data used in this project was obtained from
+mocap.cs.cmu.edu. The database was created with funding from NSF EIA-0196217."
+
+Characters exported by Ara 3D Gen may be used in commercial and non-commercial
+projects without attribution.
+
+HORIZON additional sources (not covered by the Ara attribution waiver above):
+- staff-23: Microsoft Rocketbox Chef_Female_01 model, original clothing/textures
+  and recorded motion, MIT. See ../source/rocketbox-staff/LICENSE.md and manifest.json.
+- guest-06: three Microsoft Rocketbox recorded chair clips, MIT. See
+  ../source/rocketbox-chair/ for the complete notice and pinned manifest.
+- HORIZON uniform wordmark: existing HORIZON identity, source references in
+  ../source/branding/source.json; Manrope typeface under the included SIL OFL.
+The MIT notices must be retained when redistributing the Microsoft components.
+
+- special-33 and special-34: original Microsoft Rocketbox child models,
+  textures and recorded motion, MIT. Full notice and pinned manifest:
+  ../source/rocketbox-children/LICENSE.md and manifest.json.
+
+## Special-32 toddler
+Grab3D CC0-1.0 original AI-assisted Meshy base, Blender cleanup, source attribution and exact SHA256 in source/toddler-candidate/. Original native Walk/Run preserved; six Microsoft Rocketbox MIT recordings reused under the existing recorded source license. 24 original bones, no separate finger animation.
+
+Special-39: original Ara/MakeHuman adult body, native complete outfit, rig and seven supported clips. Vintage Suitcase by Maximilian Schuster / Poly Haven, CC0 1.0, https://polyhaven.com/a/vintage_suitcase . Source files, primary API hashes, transformations and notices: source/travel-case/. Rejected Quaternius push-loop source is retained only under qa/rejected, CC0 via KinemIQ / Universal Animation Library; not a completed special character.
